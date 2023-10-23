@@ -1,7 +1,7 @@
 {
-  "name": "week3",
+  "name": "week3ch1",
   "version": "1.0.0",
-  "description": "Week 1 del Bootcamp",
+  "description": "Week 3 challenge 1",
   "type": "module",
   "main": "index.js",
   "scripts": {
